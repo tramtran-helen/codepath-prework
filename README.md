@@ -2,7 +2,7 @@
 
 Submitted by: **Tram Tran**
 
-**UniRide** is an app that... [provides students with a convenient and efficient way to navigate campus by offering real-time tracking of school shuttles, estimated arrival times, and easy access to route information] 
+**UniRide** is an app that provides students with a convenient and efficient way to navigate campus by offering real-time tracking of school shuttles, estimated arrival times, and easy access to route information
 
 Time spent: **5** hours spent in total
 
@@ -18,19 +18,21 @@ The following **required** functionality is completed:
 My favorite apps:
 
 Notion
-> Organized digital spaces
-> Customizable page design
-> Teamwork built-in
+- Organized digital spaces
+- Customizable page design
+- Teamwork built-in
 
 Spotify
-> Extensive music library
-> Personalized recommendations tailored to interests
+- Extensive music library
+- Personalized recommendations tailored to interests
 
 Google Photos
-> Automatic photo backup
-> Easy sharing between groups
+- Automatic photo backup
+- Easy sharing between groups
 
-About my upcoming project: UniRide is a mobile application developed specifically for streamlining university campus transportation. This platform offers real-time visibility of all campus shuttle routes, displaying the current location and predicted arrival times at each designated stop. Key features include an intuitive map interface, customizable notifications for selected routes and stops, and comprehensive accessibility information. A built-in feedback mechanism allows users to report issues and suggest improvements, contributing to a more efficient and responsive campus transit system.
+About my upcoming project:
+
+> UniRide is a mobile application developed specifically for streamlining university campus transportation. This platform offers real-time visibility of all campus shuttle routes, displaying the current location and predicted arrival times at each designated stop. Key features include an intuitive map interface, customizable notifications for selected routes and stops, and comprehensive accessibility information. A built-in feedback mechanism allows users to report issues and suggest improvements, contributing to a more efficient and responsive campus transit system.
 
 ## Notes
 
@@ -40,7 +42,7 @@ The initial phase of the app development in Xcode involved a period of familiari
 
 ## License
 
-    Copyright [2025] [Tram Tran]
+    Copyright 2025 Tram Tran
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
